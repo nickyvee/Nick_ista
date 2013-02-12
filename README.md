@@ -1,4 +1,4 @@
 Nick_ista
 =========
 
-all the ista stuff in one
+This is the ISTA repo for me (nick vogel)
