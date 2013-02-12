@@ -1,0 +1,8 @@
+NOUN:day,call,tears,bear,gypsy,man,boy,gift,friend,slug,arrow,chair,beast,tent,wilderness,ocean,fence,icecream,banana,beard
+VERB:hope,makes,made,try,fail,love,kiss,bait,trade,slug,fend,make,taste,be,chase,crave,extend
+ADJECTIVE:nice,awesome,double,spicy,crafty,heavy,fat,large
+ADVERB:much,well,never,just,carefully,fast,patiently,outside,rarely
+PREPOSITION:as,at,by,before,of,on,with,through,under,during,except,for,onto
+ARTICLE:this,the,a,these,those,that
+PRONOUN:I,me,we,she,those,it,him,her,we,us,he,everyone,it,these
+CONJUNCTION:and,for,nor,but,or,yet,so
